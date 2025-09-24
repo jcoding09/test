@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTHTTP:{"cookie":"__hdnea__=st=1758712053~exp=1758798453~acl=/*~hmac=9c31bb4012b493cbea726ba91ccf7df855935063127e13f878c9646766ddec3e"}
+#EXTINF:-1 tvg-id="Star_Sports_1_Hindi_HD" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=609ace1518f15ee2bcee407f5e435fed:533464a6d57d3e40b61b8fa8c4fe6627
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
