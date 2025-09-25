@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Run M3U processor
-        run: python process_m3u.py
+        run: python process.py
         env:
           M3U_URL: ${{ secrets.M3U_URL }}
 
