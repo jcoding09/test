@@ -3,7 +3,7 @@ import requests
 import re
 
 INPUT_URL = os.getenv("M3U_URL")  # from GitHub Secret
-OUTPUT_FILE = "ott-jstar.m3u"
+OUTPUT_FILE = "a.m3u"
 
 def clean_entry(block: str) -> str:
     lines = block.strip().splitlines()
